@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.dc4d6ff2.css",
-    "main.js": "/static/js/main.7c99fe9e.js",
+    "main.js": "/static/js/main.0177579d.js",
     "static/media/zillion_parts_logo_7.webp": "/static/media/zillion_parts_logo_7.977d3397c6be1222d28e.webp",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.dc4d6ff2.css.map": "/static/css/main.dc4d6ff2.css.map",
-    "main.7c99fe9e.js.map": "/static/js/main.7c99fe9e.js.map"
+    "main.0177579d.js.map": "/static/js/main.0177579d.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.7c99fe9e.js"
+    "static/js/main.0177579d.js"
   ]
 }
